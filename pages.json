@@ -1,0 +1,81 @@
+{
+	"pages": [
+		{
+			"path": "pages/tabbar"
+		},
+		{
+			"path": "pages/about",
+			"style": {
+				"navigationBarTextStyle":"white",
+				"navigationBarTitleText":"",
+				"disableScroll": true
+			}
+		},
+		{
+			"path": "pages/user/login",
+			"style": {
+				"navigationBarTitleText":"登陆"
+			}
+		},
+		{
+			"path": "pages/user/adslist",
+			"style": {
+				"navigationBarTitleText":"我的地址"
+			}
+		},
+		{
+			"path": "pages/user/adsadd",
+			"style": {
+				"navigationBarTitleText":"添加地址"
+			}
+		},
+		{
+			"path": "pages/user/member",
+			"style": {
+				"navigationBarTitleText":"会员中心"
+			}
+		},
+		{
+			"path": "pages/user/coupons",
+			"style": {
+				"navigationBarTitleText":"优惠券"
+			}
+		},
+		{
+			"path": "pages/user/favorite",
+			"style": {
+				"navigationBarTitleText":"我的收藏"
+			}
+		},
+		{
+			"path": "pages/user/paypal",
+			"style": {
+				"navigationBarTitleText":"优惠买单"
+			}
+		},
+		{
+			"path": "pages/order/list",
+			"style": {
+				"navigationBarTitleText":"全部订单"
+			}
+		},
+		{
+			"path": "pages/order/detail",
+			"style": {
+				"navigationBarTitleText":"订单详情"
+			}
+		},
+		{
+			"path": "pages/order/paypal",
+			"style": {
+				"navigationBarTitleText":"结算订单"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "清欢意品",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": "#F8F8F8"
+	}
+}
